@@ -60,7 +60,7 @@ DELETE ( by Id )
 no <b><i>application.properties</i></b> voce pode manipular caracteristicas do projeto como
 
         spring.datasource.url=jdbc:h2:mem:products
-Url do console do banco de dadosh2      
+Url do console do banco de dados h2      
 
         spring.datasource.username=sa
 Nome de usuario        
